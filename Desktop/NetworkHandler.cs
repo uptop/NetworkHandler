@@ -168,6 +168,6 @@ public class NameValuePair
     public NameValuePair(string name, string value)
     {
         this.name = name;
-        this.value = value;
+        this.value = value
     }
 }
